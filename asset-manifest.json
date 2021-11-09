@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scoreboard/static/css/main.e63c119e.chunk.css",
-    "main.js": "/scoreboard/static/js/main.e86cebb0.chunk.js",
-    "main.js.map": "/scoreboard/static/js/main.e86cebb0.chunk.js.map",
+    "main.js": "/scoreboard/static/js/main.585baa03.chunk.js",
+    "main.js.map": "/scoreboard/static/js/main.585baa03.chunk.js.map",
     "runtime-main.js": "/scoreboard/static/js/runtime-main.086edc33.js",
     "runtime-main.js.map": "/scoreboard/static/js/runtime-main.086edc33.js.map",
     "static/js/2.b4d91128.chunk.js": "/scoreboard/static/js/2.b4d91128.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.086edc33.js",
     "static/js/2.b4d91128.chunk.js",
     "static/css/main.e63c119e.chunk.css",
-    "static/js/main.e86cebb0.chunk.js"
+    "static/js/main.585baa03.chunk.js"
   ]
 }
